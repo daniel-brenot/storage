@@ -1,4 +1,4 @@
-# Screeps redis storage 
+# Screeps storage 
 
 This is a module for Screeps standalone server. This module provides a redis storage solution for the screeps game server.
 
